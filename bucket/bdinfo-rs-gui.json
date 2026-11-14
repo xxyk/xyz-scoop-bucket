@@ -13,7 +13,12 @@
             "hash": "a6b931929bbec4bd082f1f4e44f2d554431e60d56bf37b39bc54e5c924aa07bd"
         }
     },
-    "bin": "bdinfo-rs.exe",
+    "shortcuts": [
+        [
+            "bdinfo-rs-gui.exe",
+            "bdinfo-rs GUI"
+        ]
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
